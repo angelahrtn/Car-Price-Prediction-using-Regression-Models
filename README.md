@@ -1,4 +1,4 @@
-# Car_Price_Prediction
+# Car-Price-Prediction
 # Project Overview
 This project was conducted as part of an assignment for the Machine Learning course in the third semester. The goal of the project is to predict car prices using regression models based on various features of the cars. The analysis utilizes a dataset containing information about different cars, including features such as car age, original price, adjusted price, and more. By leveraging regression models, the project aims to provide accurate price predictions for cars based on these factors. The primary tool used for analysis is Python, along with libraries like Pandas and Scikit-learn for data preprocessing and model implementation.
 
